@@ -1,3 +1,5 @@
+// Task 1 DEC batch A24
+
 #include <cstdlib> 
 #include <ctime>
 #include <iostream> 
