@@ -1,4 +1,4 @@
-// Task 4 DEC batch A24
+// Task 3 DEC batch A24
 
 #include<iostream>
 using namespace std;
